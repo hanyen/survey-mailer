@@ -2,6 +2,16 @@
 
 This is a Udemy fullstack tutorial project. https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/overview
 
+Frontend React Routing
+- landing page
+- dashboard
+- convert pdf, use iframe initially, then use backend APIs. Pass the document to the API?
+
+Backend APIs
+- login/logout
+- ad serving
+
+
 ### What is this repository for? ###
 
 * Quick summary
